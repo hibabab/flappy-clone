@@ -1,3 +1,3 @@
-- Nom: [wakel]
+- Nom: [wakkel]
 - Prénom: [hiba]
 - URL GitHub: [https://github.com/hibabab/flappy-clone.git]
